@@ -1,0 +1,830 @@
+@font-face {
+  font-family: 'egypt-icon';
+  src:  url('fonts/egypt-icon5ac4.eot?rl6qw5');
+  src:  url('fonts/egypt-icon5ac4.eot?rl6qw5#iefix') format('embedded-opentype'),
+    url('fonts/egypt-icon5ac4.ttf?rl6qw5') format('truetype'),
+    url('fonts/egypt-icon5ac4.woff?rl6qw5') format('woff'),
+    url('fonts/egypt-icon5ac4.svg?rl6qw5#egypt-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="egypt-icon-"], [class*=" egypt-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'egypt-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.egypt-icon-play-button:before {
+  content: "\e9b5";
+}
+.egypt-icon-remove:before {
+  content: "\e9b4";
+}
+.egypt-icon-clock1:before {
+  content: "\e9b2";
+}
+.egypt-icon-email:before {
+  content: "\e9b1";
+}
+.egypt-icon-clock:before {
+  content: "\e900";
+}
+.egypt-icon-maps-and-location:before {
+  content: "\e901";
+}
+.egypt-icon-logo:before {
+  content: "\e902";
+}
+.egypt-icon-twitter:before {
+  content: "\e903";
+}
+.egypt-icon-instagram:before {
+  content: "\e904";
+}
+.egypt-icon-play:before {
+  content: "\e905";
+}
+.egypt-icon-search:before {
+  content: "\e906";
+}
+.egypt-icon-cultures:before {
+  content: "\e907";
+}
+.egypt-icon-supermarket:before {
+  content: "\e908";
+}
+.egypt-icon-left-angle:before {
+  content: "\e909";
+}
+.egypt-icon-right-angle:before {
+  content: "\e9b3";
+}
+.egypt-icon-arrow-1:before {
+  content: "\e90a";
+}
+.egypt-icon-tick:before {
+  content: "\e90b";
+}
+.egypt-icon-pause:before {
+  content: "\e90c";
+}
+.egypt-icon-ui:before {
+  content: "\e90d";
+}
+.egypt-icon-art-museum:before {
+  content: "\e90e";
+}
+.egypt-icon-smile:before {
+  content: "\e90f";
+}
+.egypt-icon-medal:before {
+  content: "\e910";
+}
+.egypt-icon-jar:before {
+  content: "\e911";
+}
+.egypt-icon-quote:before {
+  content: "\e912";
+}
+.egypt-icon-add:before {
+  content: "\e913";
+}
+.egypt-icon-right-arrow:before {
+  content: "\e914";
+}
+.egypt-icon-right-arrow1:before {
+  content: "\e915";
+}
+.egypt-icon-arrow-2:before {
+  content: "\e916";
+}
+.egypt-icon-time:before {
+  content: "\e917";
+}
+.egypt-icon-global:before {
+  content: "\e918";
+}
+.egypt-icon-search-1:before {
+  content: "\e919";
+}
+.egypt-icon-place:before {
+  content: "\e91a";
+}
+.egypt-icon-ticket:before {
+  content: "\e91b";
+}
+.egypt-icon-mayan .path1:before {
+  content: "\e91c";
+  color: rgb(231, 209, 196);
+}
+.egypt-icon-mayan .path2:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path3:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path4:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path5:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path6:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-mayan .path7:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path8:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path9:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path10:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path11:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path12:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path13:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path14:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path15:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path16:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path17:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path18:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path19:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path20:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path21:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-mayan .path22:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-mayan .path23:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path1:before {
+  content: "\e933";
+  color: rgb(231, 209, 196);
+}
+.egypt-icon-god .path2:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(193, 219, 220);
+}
+.egypt-icon-god .path3:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path4:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(193, 219, 220);
+}
+.egypt-icon-god .path5:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path6:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-god .path7:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path8:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-god .path9:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path10:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(255, 232, 220);
+}
+.egypt-icon-god .path11:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path12:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path13:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path14:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(157, 193, 228);
+}
+.egypt-icon-god .path15:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path16:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-god .path17:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path18:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-god .path19:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path20:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path21:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path22:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path23:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path24:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path25:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-god .path26:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path1:before {
+  content: "\e94d";
+  color: rgb(231, 209, 196);
+}
+.egypt-icon-pyramid .path2:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-pyramid .path3:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path4:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-pyramid .path5:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path6:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-pyramid .path7:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path8:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-pyramid .path9:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path10:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path11:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path12:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path13:before {
+  content: "\e959";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path14:before {
+  content: "\e95a";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path15:before {
+  content: "\e95b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path16:before {
+  content: "\e95c";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-pyramid .path17:before {
+  content: "\e95d";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path18:before {
+  content: "\e95e";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path19:before {
+  content: "\e95f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path20:before {
+  content: "\e960";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path21:before {
+  content: "\e961";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path22:before {
+  content: "\e962";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path23:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path24:before {
+  content: "\e964";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pyramid .path25:before {
+  content: "\e965";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-eye .path1:before {
+  content: "\e966";
+  color: rgb(231, 209, 196);
+}
+.egypt-icon-eye .path2:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-eye .path3:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-eye .path4:before {
+  content: "\e969";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-eye .path5:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-eye .path6:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-eye .path7:before {
+  content: "\e96c";
+  margin-left: -1em;
+  color: rgb(107, 79, 91);
+}
+.egypt-icon-eye .path8:before {
+  content: "\e96d";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-eye .path9:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-eye .path10:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path1:before {
+  content: "\e970";
+  color: rgb(231, 209, 196);
+}
+.egypt-icon-pegasus .path2:before {
+  content: "\e971";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-pegasus .path3:before {
+  content: "\e972";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path4:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-pegasus .path5:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path6:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.egypt-icon-pegasus .path7:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path8:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(157, 193, 228);
+}
+.egypt-icon-pegasus .path9:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path10:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path11:before {
+  content: "\e97a";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path12:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-pegasus .path13:before {
+  content: "\e97c";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path1:before {
+  content: "\e97d";
+  color: rgb(231, 209, 196);
+}
+.egypt-icon-war .path2:before {
+  content: "\e97e";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-war .path3:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path4:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(191, 126, 104);
+}
+.egypt-icon-war .path5:before {
+  content: "\e981";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path6:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(191, 126, 104);
+}
+.egypt-icon-war .path7:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path8:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-war .path9:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path10:before {
+  content: "\e986";
+  margin-left: -1em;
+  color: rgb(191, 126, 104);
+}
+.egypt-icon-war .path11:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path12:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(191, 126, 104);
+}
+.egypt-icon-war .path13:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path14:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-war .path15:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path16:before {
+  content: "\e98c";
+  margin-left: -1em;
+  color: rgb(181, 161, 156);
+}
+.egypt-icon-war .path17:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path18:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-war .path19:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path20:before {
+  content: "\e990";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-war .path21:before {
+  content: "\e991";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path22:before {
+  content: "\e992";
+  margin-left: -1em;
+  color: rgb(237, 235, 220);
+}
+.egypt-icon-war .path23:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path24:before {
+  content: "\e994";
+  margin-left: -1em;
+  color: rgb(252, 140, 41);
+}
+.egypt-icon-war .path25:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path26:before {
+  content: "\e996";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-war .path27:before {
+  content: "\e997";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path28:before {
+  content: "\e998";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-war .path29:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-war .path30:before {
+  content: "\e99a";
+  margin-left: -1em;
+  color: rgb(255, 206, 86);
+}
+.egypt-icon-war .path31:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(76, 36, 29);
+}
+.egypt-icon-place-1:before {
+  content: "\e99c";
+}
+.egypt-icon-focus:before {
+  content: "\e99d";
+}
+.egypt-icon-membership:before {
+  content: "\e99e";
+}
+.egypt-icon-check:before {
+  content: "\e99f";
+}
+.egypt-icon-london:before {
+  content: "\e9a0";
+}
+.egypt-icon-architecture-and-city:before {
+  content: "\e9a1";
+}
+.egypt-icon-inbox:before {
+  content: "\e9a2";
+}
+.egypt-icon-career:before {
+  content: "\e9a3";
+}
+.egypt-icon-circular:before {
+  content: "\e9a4";
+}
+.egypt-icon-share:before {
+  content: "\e9a5";
+}
+.egypt-icon-pin .path1:before {
+  content: "\e9a6";
+  color: rgb(50, 77, 91);
+}
+.egypt-icon-pin .path2:before {
+  content: "\e9a7";
+  margin-left: -1em;
+  color: rgb(226, 87, 76);
+}
+.egypt-icon-pin .path3:before {
+  content: "\e9a8";
+  margin-left: -1em;
+  color: rgb(232, 121, 112);
+}
+.egypt-icon-pin .path4:before {
+  content: "\e9a9";
+  margin-left: -1em;
+  color: rgb(203, 78, 68);
+}
+.egypt-icon-architecture-and-city-1:before {
+  content: "\e9aa";
+}
+.egypt-icon-gps:before {
+  content: "\e9ab";
+}
+.egypt-icon-woman:before {
+  content: "\e9ac";
+}
+.egypt-icon-business-and-finance:before {
+  content: "\e9ad";
+}
+.egypt-icon-download:before {
+  content: "\e9ae";
+}
+.egypt-icon-menu:before {
+  content: "\e9af";
+}
+.egypt-icon-gift:before {
+  content: "\e9b0";
+}
